@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
-
+//测试使用
 int a = 0, b = 2;
 char *buf = "测试文件";
 int main(){
