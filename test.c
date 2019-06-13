@@ -2,7 +2,7 @@
 #include <stdio.h>
 //测试使用
 int a = 0, b = 2;
-char *buf = "测试文件";
+char *buf = "测试文件修改";
 int main(){
     printf("a = %d\n",a);
     printf("hello\n");
